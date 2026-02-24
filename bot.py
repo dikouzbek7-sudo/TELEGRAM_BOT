@@ -25,7 +25,7 @@ balances = {}          # user_id: balance
 pending_topups = {}    # user_id: {"amount": int, "photo": file_id}
 
 PRODUCTS = {
-    "poco": {
+    "root": {
         "name": "ROOT UCHUN PANEL ☠️",
         "price": 50000,
         "ban": "50/50 tenovay ban",
@@ -39,7 +39,7 @@ PRODUCTS = {
         "desc": "Bu chit odamlarni ko‘rsatadi.\n60% bezban.",
         "channel": "https://t.me/+PtwQWwC6nqs3OGZi",
     },
-    "panel30": {
+    "panel40": {
         "name": "40% Panel🏆",
         "price": 10000,
         "ban": "0% ban",
@@ -221,5 +221,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
