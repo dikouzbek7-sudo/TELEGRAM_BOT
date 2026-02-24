@@ -26,38 +26,38 @@ pending_topups = {}    # user_id: {"amount": int, "photo": file_id}
 
 PRODUCTS = {
     "poco": {
-        "name": "Poco Redmi 100% Hedshot",
+        "name": "ROOT UCHUN PANEL ☠️",
         "price": 50000,
         "ban": "50/50 tenovay ban",
         "desc": "Bu chit 100% hedshot beradi.\n95% bezban.\nO‘rnatish videosi mavjud.",
         "channel": "https://t.me/+PtwQWwC6nqs3OGZi",
     },
     "wallhack": {
-        "name": "Odam ko‘rsatadigan",
+        "name": "Odam ko‘rsatadigan🕵️‍♂️",
         "price": 20000,
         "ban": "50/50 tenovay ban",
         "desc": "Bu chit odamlarni ko‘rsatadi.\n60% bezban.",
         "channel": "https://t.me/+PtwQWwC6nqs3OGZi",
     },
     "panel30": {
-        "name": "30% Panel",
+        "name": "40% Panel🏆",
         "price": 10000,
         "ban": "0% ban",
         "desc": "30% hedshot.\nArzon va yengil.",
         "channel": "https://t.me/+FSu_4yZ1CRplNWEy",
     },
     "vzlom": {
-        "name": "Free Fire Vzlom",
+        "name": "Free Fire Vzlom💎",
         "price": 35000,
-        "ban": "⚠️ xavfli",
-        "desc": "Almaz VIP bo‘ladi.\n100% ishlaydi.",
+        "ban": "Xavfsiz 50/50",
+        "desc": "Almaz VIP bo‘ladi asosiy akk uchun tavsiya qilinmaydi xohlaganizcha almaz soladigan va xohlagan setingizni qoyadigan va olib tashlaydigan sayt manzili bilan qoshib beriladi akkountingizga xohlagan narsanigizni qoshishingiz yoki olib tashalashingiz mumkin.\n100% ishlaydi.",
         "channel": "https://t.me/+PtwQWwC6nqs3OGZi",
     },
     "skin": {
-        "name": "Skin Hack",
+        "name": "Skin Hack🛒",
         "price": 25000,
         "ban": "0% ban",
-        "desc": "Skinlar ochiladi.\nXavfsiz.",
+        "desc": "Skinlar ochiladi chitlar obozri kanaliga joylashtirilgan i.\nXavfsiz.",
         "channel": "https://t.me/+Kx14tGtORjxlMzdi",
     },
 }
@@ -221,4 +221,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
