@@ -27,14 +27,14 @@ pending_topups = {}    # user_id: {"amount": int, "photo": file_id}
 PRODUCTS = {
     "root": {
         "name": "ROOT UCHUN PANEL ☠️",
-        "price": 50000,
+        "price": 20000,
         "ban": "50/50 tenovay ban",
         "desc": "Bu chit 100% hedshot beradi.\n95% bezban.\nO‘rnatish videosi mavjud.",
         "channel": "https://t.me/+PtwQWwC6nqs3OGZi",
     },
     "wallhack": {
         "name": "Odam ko‘rsatadigan🕵️‍♂️",
-        "price": 20000,
+        "price": 15000,
         "ban": "50/50 tenovay ban",
         "desc": "Bu chit odamlarni ko‘rsatadi.\n60% bezban.",
         "channel": "https://t.me/+PtwQWwC6nqs3OGZi",
@@ -48,14 +48,14 @@ PRODUCTS = {
     },
     "vzlom": {
         "name": "Free Fire Vzlom💎",
-        "price": 35000,
+        "price": 25000,
         "ban": "Xavfsiz 50/50",
         "desc": "Almaz VIP bo‘ladi asosiy akk uchun tavsiya qilinmaydi xohlaganizcha almaz soladigan va xohlagan setingizni qoyadigan va olib tashlaydigan sayt manzili bilan qoshib beriladi akkountingizga xohlagan narsanigizni qoshishingiz yoki olib tashalashingiz mumkin.\n100% ishlaydi.",
         "channel": "https://t.me/+PtwQWwC6nqs3OGZi",
     },
     "skin": {
         "name": "Skin Hack🛒",
-        "price": 25000,
+        "price": 10000,
         "ban": "0% ban",
         "desc": "Skinlar ochiladi chitlar obozri kanaliga joylashtirilgan i.\nXavfsiz.",
         "channel": "https://t.me/+Kx14tGtORjxlMzdi",
@@ -221,6 +221,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
